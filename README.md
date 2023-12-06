@@ -14,5 +14,4 @@ Available: https://www.kaggle.com/datasets/abdelghaniaaba/wildfire-prediction-da
 
 Some code inspired by:
 
-Chollet, F. (2016, June 5). “Building powerful image classification models using very little data.” The Keras Blog. https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html.  Accessed: Nov. 27, 2023.
- 
+Chollet, F. (2016, June 5). “Building powerful image classification models using very little data.” The Keras Blog. https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html. 
