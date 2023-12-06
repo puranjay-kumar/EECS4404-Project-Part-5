@@ -1,8 +1,8 @@
 # EECS4404 Project Part 5
 
-dataset_wildfire folder contains the dataset
-final_model folder contains the last trained model in "tf" format.
-forest_final.ipynb is the source code to generate the model. 
+"dataset_wildfire" folder contains the dataset.
+
+"forest_final.ipynb" is the source code to generate the model. 
 
 
 
